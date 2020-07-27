@@ -1,4 +1,4 @@
-##GCP Cloud Functions
+## GCP Cloud Functions
 * They are part of FaaS (Function as a service).
 * They let you automatically run backend code in response to events or Https requests.
 * Your code is stored in Google Cloud and runs in a managed environment.
